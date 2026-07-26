@@ -1,0 +1,6 @@
+Model,Average Rank Score
+Random Forest,2.0
+Decision Tree,2.25
+XGBoost,2.75
+Extra Trees,3.0
+LightGBM,5.0
