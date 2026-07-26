@@ -143,12 +143,12 @@ Temporal forecasting analysis
 
 Supplementary figures for benchmarked algorithms
 
-License
+## License
 This project is licensed under the Apache License 2.0.
 You may use, modify, and distribute this software under the terms and conditions of the Apache License 2.0.
 
 The processed dataset will be distributed under an appropriate open data license through Zenodo after the peer-review process.
 
-Citation
+## Citation
 The citation information will be updated after publication.
 If you use this repository or the associated dataset, please cite the final published article and the Zenodo dataset DOI.
